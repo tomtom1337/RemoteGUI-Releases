@@ -3,7 +3,8 @@
 
 This software is a demonstration for the IP-Control-API possibilities for G&D devices. <br/>
 
-# RemoteGUI (Windows): [![Version](https://img.shields.io/badge/Version-4.9.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI_4.9.2)
+# RemoteGUI (Windows): 
+[![Version](https://img.shields.io/badge/Version-4.9.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI_4.9.2)
 <details><summary>More</summary>
 <p>
 
@@ -177,7 +178,8 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 </p>
 </details>
 
-# MobileGUI (iOS & Android): [![Version](https://img.shields.io/badge/Version-0.3.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_0.3.0)
+# MobileGUI (iOS & Android): 
+[![Version](https://img.shields.io/badge/Version-0.3.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_0.3.0)
 <details><summary>More</summary>
 <p>
 
