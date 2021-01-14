@@ -1,17 +1,15 @@
-# RemoteGUI-Releases
 
-![alt-text](https://github.com/tomvalk/G-D-RemoteGUI/blob/master/Project_RemoteGUI/Resources/Picture_Header_Schrift.png?raw=true) <br/>
+![alt-text](https://github.com/tomvalk/RemoteGUI-Releases/blob/master/Picture_Header_Schrift.png?raw=true) <br/>
+
+# RemoteGUI-Releases
 This software is a demonstration for the IP-Control-API possibilities for G&D devices. <br/>
 
 
-
-<details><summary>Windows</summary>
+## Windows: [![Version](https://img.shields.io/badge/Version-4.9.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/)
+<details><summary>More</summary>
 <p>
 
-## Releases
-[![Version](https://img.shields.io/badge/Version-4.9.1-brightgreen.svg)](https://github.com/tomvalk/G-D-RemoteGUI/releases/tag/v4.9.1)
-
-## Requirements
+### Requirements
 - Windows OS with Microsoft .net Framework 4.6 or higher
 - It's recommended to use the latest G&D firmware in order to use all available functions and features
 - The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
@@ -35,7 +33,10 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 **Not Supported:**
 - CATCenterNEO
 
-## Changelog
+### Blog
+https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhalb-eines-kvm-systems-via-xml/
+
+### Changelog
 ```
 4.9.2
 - New ICON
@@ -178,21 +179,13 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 </p>
 </details>
 
-
-
-<details><summary>Mobile</summary>
+## Mobile: [![Version](https://img.shields.io/badge/Version-0.2.0-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/)
+<details><summary>More</summary>
 <p>
 
-# MobileGUI
-This software is a demonstration for the IP-Control-API possibilities for G&D devices on mobile devices <br/>
-
-## Releases
-[![Version](https://img.shields.io/badge/Version-0.1.0-red.svg)](https://github.com/tomvalk/MobileGUI/releases/)
-
-
-## Requirements
-- Android 5.0 / FireOS 5 or higher
-- iOS 12.5 or higher
+### Requirements
+- Android 5.0  or higher
+- iOS 12.1 or higher
 - It's recommended to use the latest G&D firmware in order to use all available functions and features
 - The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
 ```
@@ -200,18 +193,21 @@ Webinterface -> 'Your Device' -> Information -> Activated Features
 Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> TCP:xxxxx -> Enabled
 ```
 
-## Installation
-### Android / FireOS
+### Installation
+#### Android / FireOS
 - Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store.
 - You can install APK files on your Android smartphone or tablet directly from your browser / file explorer app.
-### iOS
+#### iOS
 - The IPA file is only signed with a Free Developer Account so you need to be creative :)
 - Use http://www.cydiaimpactor.com/
 - Use xCode to sign it with your own certificat (https://www.ketzler.de/2011/01/resign-an-iphone-app-insert-new-bundle-id-and-send-to-xcode-organizer-for-upload/)
 
 
-## Changelog
+### Changelog
 ```
+0.2.0
+- Beta
+
 0.1.0
 - Alpha
 
@@ -224,19 +220,10 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 
 ## Contributing
 For changes or issues, please open an issue first to discuss what you would like to change. <br/>
-https://github.com/tomvalk/G-D-RemoteGUI/issues
+https://github.com/tomvalk/RemoteGUI-Releases/issues
 
 ## Author
 Tom Valk   <br/>
 Int. Area Sales Manager  <br/>
 State-certified technical engineer and business economist <br/>
 Certified specialist trainer (BDVT)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/) <br/>
-"Icon made by Pixel perfect from www.flaticon.com"
-
-## Blog
-https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhalb-eines-kvm-systems-via-xml/
-
-
