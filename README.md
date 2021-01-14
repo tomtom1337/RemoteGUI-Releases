@@ -17,7 +17,7 @@ This software is a demonstration for the IP-Control-API possibilities for G&D de
 Webinterface -> 'Your Device' -> Information -> Activated Features
 Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> TCP:xxxxx -> Enabled
 ```
-**Fully Supported:**
+**Supported:**
 - ControlCenter-Digital
 - ControlCenter-Compact
 - ControlCenter-IP 2.0
@@ -192,6 +192,10 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 Webinterface -> 'Your Device' -> Information -> Activated Features
 Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> TCP:xxxxx -> Enabled
 ```
+**Supported:**
+- ControlCenter-Digital
+- ControlCenter-Compact
+- ControlCenter-IP 2.0
 
 ### Installation
 #### Android / FireOS
