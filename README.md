@@ -3,7 +3,7 @@
 
 This software is a demonstration for the IP-Control-API possibilities for G&D devices. <br/>
 
-# RemoteGUI (Windows): [![Version](https://img.shields.io/badge/Version-4.9.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases)
+# RemoteGUI (Windows): [![Version](https://img.shields.io/badge/Version-4.9.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI_4.9.2)
 <details><summary>More</summary>
 <p>
 
@@ -177,7 +177,7 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 </p>
 </details>
 
-# MobileGUI (iOS & Android): [![Version](https://img.shields.io/badge/Version-0.2.0-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases)
+# MobileGUI (iOS & Android): [![Version](https://img.shields.io/badge/Version-0.3.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_0.3.0)
 <details><summary>More</summary>
 <p>
 
@@ -196,25 +196,28 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 - ControlCenter-IP 2.0
 
 ### Installation
-#### Android / FireOS
+#### Android
 - Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store.
 - You can install APK files on your Android smartphone or tablet directly from your browser / file explorer app.
 #### iOS
-- The IPA file is only signed with a Free Developer Account so you need to be creative :)
-- Use http://www.cydiaimpactor.com/
+- The IPA file is only signed with a free Developer Account so you need to be creative :)
+- Use http://www.cydiaimpactor.com/ ;)
 - Use xCode to sign it with your own certificat (https://www.ketzler.de/2011/01/resign-an-iphone-app-insert-new-bundle-id-and-send-to-xcode-organizer-for-upload/)
 
 
 ### Changelog
 ```
-0.2.0
-- Beta
+0.3.0 Public BETA
+- UI improvements
+- Stability improvements
+- Bug fixes
 
-0.1.0
-- Alpha
+0.2.0 Beta
+- Added commands like Connect/Disconnect etc.
 
-0.0.1
-- POC
+0.1.0 Alpha
+- Connect to a G&D device and send/receive data
+
 ```
 
 </p>
